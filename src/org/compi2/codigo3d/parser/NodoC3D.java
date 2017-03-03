@@ -1,4 +1,4 @@
-package org.compi2.codigo3d.parser;
+  package org.compi2.codigo3d.parser;
 
 /**
  * Clase sencilla para sintetizar información entre producciones.
