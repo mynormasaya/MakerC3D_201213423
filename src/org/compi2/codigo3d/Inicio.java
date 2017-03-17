@@ -10,6 +10,7 @@ import org.compi2.codigo3d.parser.scanner;
  *
  * @author esvux
  */
+///HOLA
 public class Inicio extends javax.swing.JFrame {
 
     public Inicio() {
